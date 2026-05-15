@@ -1,32 +1,32 @@
 # Autonomous Mobile Robot
 
-## Projektziel
+## Project Goal
 
-Entwicklung eines autonomen mobilen Roboters mit:
+Development of an autonomous mobile robot using:
 - ROS2
 - Computer Vision
 - NEMA17 + TMC2209
 - Gazebo Simulation
 - SLAM
 
-Ziel ist autonome Navigation in einfachen Innenräumen.
+The goal is autonomous navigation in simple indoor environments.
 
 ---
 
-## Aktueller Stand
+## Current Status
 
-### Fertig
-- [x] Auswahl der Elektronik
-- [x] Motorsteuerungsplatine mit TMC2209
+### Completed
+- [x] Selection of electronic components
+- [x] Motor control board using TMC2209 drivers
 
-### In Arbeit
-- [ ] Modell für den 3D-druck
-- [ ] Gazebo Simulation
-- [ ] Basis Publisher/Subscriber
-- [ ] Kamera Integration
+### Work in Progress
+- [ ] 3D-printable chassis model
+- [ ] Gazebo simulation
+- [ ] Basic publisher/subscriber communication
+- [ ] Camera integration
 - [ ] SLAM
-- [ ] Pfadplanung
+- [ ] Path planning
 
-### Probleme
-- Instabile Motorregelung bei hoher Geschwindigkeit
-- Kein Encoder auf dem NEMA17
+### Current Challenges
+- Unstable motor control at high speeds
+- No encoder feedback on the NEMA17 motors
