@@ -66,3 +66,4 @@ These settings significantly increase the mesh resolution and improve the visual
 * Printable sensor mounts
 * Weight reduction of non-critical components
 * Additional mounting points for future hardware
+* Wheels (TPU printing)
