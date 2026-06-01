@@ -1,0 +1,1 @@
+/home/gruen/Desktop/Mobile-Platform/software/build/robot_bringup/ament_cmake_core/robot_bringupConfig-version.cmake

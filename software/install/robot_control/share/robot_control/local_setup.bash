@@ -1,0 +1,1 @@
+/home/gruen/Desktop/Mobile-Platform/software/build/robot_control/ament_cmake_environment_hooks/local_setup.bash
