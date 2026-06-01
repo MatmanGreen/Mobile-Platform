@@ -1,1 +1,0 @@
-/home/gruen/Desktop/Mobile-Platform/software/build/robot_control/ament_cmake_core/robot_controlConfig-version.cmake

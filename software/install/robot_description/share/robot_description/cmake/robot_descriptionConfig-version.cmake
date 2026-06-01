@@ -1,1 +1,0 @@
-/home/gruen/Desktop/Mobile-Platform/software/build/robot_description/ament_cmake_core/robot_descriptionConfig-version.cmake
