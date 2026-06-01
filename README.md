@@ -58,7 +58,7 @@ The goal is autonomous navigation in simple indoor environments.
 ## Repository Structure
 
 ```text
-Autonomous-Mobile-Robot/
+Mobile-Platform/
 ├── mechanical/
 ├── electronics/
 └── software/
